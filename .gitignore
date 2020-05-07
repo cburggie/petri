@@ -1,0 +1,10 @@
+build/
+
+petri
+notes
+
+*.o
+*.swp
+*~
+
+*.exe
